@@ -1,0 +1,16 @@
+[Nemo Action]
+
+Name=Convert WEBP to PNG
+Comment=Convert WEBP to PNG
+Exec=<webp2png.sh %F>
+Icon-Name=gtk-convert
+#Stock-Id=
+Selection=s
+#Extensions=
+Mimetypes=image/webp;
+#Separator= 
+#Quote=
+Dependencies=dwebp;
+#Conditions=
+EscapeSpaces=true
+Terminal=false

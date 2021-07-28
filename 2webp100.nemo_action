@@ -1,0 +1,16 @@
+[Nemo Action]
+
+Name=Convert to WEBP (lossless)
+Comment=Convert JPG/PNG/TIFF to WEBP (90% quality)
+Exec=<2webp100.sh %F>
+Icon-Name=gtk-convert
+#Stock-Id=
+Selection=s
+#Extensions=
+Mimetypes=image/jpg;image/png;image/jpeg;image/tiff;
+#Separator= 
+#Quote=
+Dependencies=cwebp;
+#Conditions=
+EscapeSpaces=true
+Terminal=false
