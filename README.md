@@ -20,7 +20,7 @@ These Nemo Actions use `cwebp` as a WebP encoder and `dwebp` as a WebP decoder. 
 After installing `cwebp` and `dwebp` through the command `# aptitude install webp`, simply copy the files you want to `~/.local/share/nemo/actions` (user) and/or `/usr/share/nemo/actions` (system-wide), then make the shell scripts executable.
 
 Here's the full run if you're lazy (excluding the lossless converter):
-`
+```
 mkdir ~/Downloads/linux-mint-nemo-webp-converter-actions
 cd ~/Downloads/linux-mint-nemo-webp-converter-actions
 
@@ -36,4 +36,4 @@ cp webp2png.sh ~/.local/share/nemo/actions
 chmod +x ~/.local/share/nemo/actions/2webp70.sh
 chmod +x ~/.local/share/nemo/actions/2webp90.sh
 chmod +x ~/.local/share/nemo/actions/webp2png.sh
-`
+```
