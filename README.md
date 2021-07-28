@@ -11,7 +11,7 @@ The quality is easily tweaked by changing the quality settings in the files. No 
 
 ***One converter from WEBP to PNG.***
 
-# Prerequesites
+# Prerequisites
 
 These Nemo Actions use `cwebp` as a WebP encoder and `dwebp` as a WebP decoder. On Linux Mint, install them through the command `# aptitude install webp`.
 
