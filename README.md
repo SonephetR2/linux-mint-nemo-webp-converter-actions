@@ -1,6 +1,8 @@
 # linux-mint-nemo-webp-converter-actions
 Basic 'JPG/PNG/TIFF to WEBP' Nemo Actions for on-the-fly conversions
 
+![image](https://github.com/SonephetR2/linux-mint-nemo-webp-converter-actions/blob/main/Screenshot.png)
+
 Includes 4 actions for Linux Mint's Nemo:
 
 ***Three converters from JPG/PNG/TIFF to WEBP***, set at 70% quality, 90% quality and 100% quality (lossless).
